@@ -1,0 +1,19 @@
+{
+    "name": "rndoom04/encryptor",
+    "description": "Encrypt and descript PHP library.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Slavomír Kollert",
+            "email": "info@kollertslavomir.cz"
+        }
+    ],
+    "require": {
+            "php": ">=7.0"
+    },
+    "autoload": {
+        "files": [ "src/main.php" ]
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
