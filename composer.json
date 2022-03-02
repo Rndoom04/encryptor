@@ -1,6 +1,6 @@
 {
     "name": "rndoom04/encryptor",
-    "description": "Encrypt and descript PHP library.",
+    "description": "Encryption and decryption PHP library. ",
     "license": "MIT",
     "authors": [
         {
